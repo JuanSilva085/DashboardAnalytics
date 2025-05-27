@@ -15,6 +15,8 @@
 
 🎨 Layout moderno com visual escuro e cores destacadas
 
+📤 Exportação dos dados em formato **PDF**
+
 <hr>
 
 🛠️ Tecnologias Utilizadas

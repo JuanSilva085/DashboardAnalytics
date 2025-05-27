@@ -1,5 +1,5 @@
 # DashboardAnalytics
-📊Um painel interativo desenvolvido com C# (ASP.NET) e JavaScript que exibe o resumo de vendas e gastos mensais com gráficos dinâmicos, total geral, ticket médio e filtro por mês. Ideal para análise visual de dados financeiros.
+📊 Um Dashboard desenvolvido com C# (ASP.NET) e JavaScript que exibe o resumo de vendas e gastos mensais com gráficos dinâmicos, total geral, ticket médio e filtro por mês. Ideal para análise visual de dados financeiros.
 
 <hr>
 

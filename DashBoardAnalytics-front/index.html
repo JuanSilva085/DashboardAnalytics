@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard de Vendas</title>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.25/jspdf.plugin.autotable.min.js"></script>
+
+  
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+</head>
+<body>
+  
+  <header>
+    <div class="header-content">
+      <h1>📊 Dashboard de Vendas</h1>
+      <nav>
+        <a href="#">Início</a>
+        <a href="#">Relatórios</a>
+        <a href="#">Configurações</a>
+      </nav>
+      <div>
+       <button id="export-table-pdf">Exportar PDF</button>
+      </div>
+    </div>
+  </header>
+  
+  
+  <form id="formGasto">
+    <input type="text" id="descricao" placeholder="Descrição" required />
+    <input type="number" id="valor" placeholder="Valor" required />
+    <input type="date" id="data" required />
+    <button type="submit">Adicionar Gasto</button>
+  </form>
+  
+  <main>
+    <section class="metrics">
+      <div class="card metric-card">
+        <div class="metric-icon"><i class="fa-solid fa-coins"></i></div>
+        <div class="metric-info">
+          <h2>Total de Vendas</h2>
+          <p id="totalVendas">$ 0,00</p>
+        </div>
+      </div>
+
+      <div class="card metric-card">
+        <div class="metric-icon"><i class="fa-solid fa-calendar-day"></i></div>
+        <div class="metric-info">
+          <h2>Vendas do Mês</h2>
+          <p id="vendasMes">$ 0,00</p>
+        </div>
+      </div>
+      
+      <div class="card metric-card">
+        <div class="metric-icon"><i class="fa-solid fa-dollar-sign"></i></div>
+        <div class="metric-info">
+          <h2>Ticket Médio</h2>
+          <p id="ticketMedio">$ 0,00</p>
+        </div>
+      </div>
+    </section>
+    
+    <section class="charts">
+      <div class="card">
+        <h3><i class="fa-solid fa-chart-column"></i> Resumo Mensal</h3>
+        <canvas id="graficoSummarySales"></canvas>
+      </div>
+      
+      <div class="card">
+        <h3><i class="fa-solid fa-chart-bar"></i> Vendas Gerais</h3>
+        <canvas id="graficoVendas"></canvas>
+      </div>
+      
+      <div class="card">
+        <h3><i class="fa-solid fa-chart-pie"></i> Por Categoria</h3>
+        <canvas id="graficoCategorias"></canvas>
+      </div>
+    </section>
+  </main>
+
+
+  
+  <script src="dashboard.js"></script>
+</body>
+</html>

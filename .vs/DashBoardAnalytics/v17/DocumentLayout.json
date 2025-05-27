@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|c:\\users\\juanu\\source\\repos\\dashboardanalytics\\dashboardanalytics\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|solutionrelative:dashboardanalytics\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|c:\\users\\juanu\\source\\repos\\dashboardanalytics\\dashboardanalytics\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|solutionrelative:dashboardanalytics\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|c:\\users\\juanu\\source\\repos\\dashboardanalytics\\dashboardanalytics\\models\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|solutionrelative:dashboardanalytics\\models\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|c:\\users\\juanu\\source\\repos\\dashboardanalytics\\dashboardanalytics\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|solutionrelative:dashboardanalytics\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|c:\\users\\juanu\\source\\repos\\dashboardanalytics\\dashboardanalytics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|solutionrelative:dashboardanalytics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|c:\\users\\juanu\\source\\repos\\dashboardanalytics\\dashboardanalytics\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|solutionrelative:dashboardanalytics\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|c:\\users\\juanu\\source\\repos\\dashboardanalytics\\dashboardanalytics\\dashboardanalytics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|solutionrelative:dashboardanalytics\\dashboardanalytics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|c:\\users\\juanu\\source\\repos\\dashboardanalytics\\dashboardanalytics\\data\\dashboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C2C786-EF6A-4BAE-A150-A652F585AE05}|DashBoardAnalytics\\DashBoardAnalytics.csproj|solutionrelative:dashboardanalytics\\data\\dashboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Summary.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Models\\Summary.cs",
+              "RelativeDocumentMoniker": "DashBoardAnalytics\\Models\\Summary.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Models\\Summary.cs",
+              "RelativeToolTip": "DashBoardAnalytics\\Models\\Summary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:00:32.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DashBoardAnalytics\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DashBoardAnalytics\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T19:31:05.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Data\\DashboardDbContext.cs",
+              "RelativeDocumentMoniker": "DashBoardAnalytics\\Data\\DashboardDbContext.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Data\\DashboardDbContext.cs",
+              "RelativeToolTip": "DashBoardAnalytics\\Data\\DashboardDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:17:58.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Program.cs",
+              "RelativeDocumentMoniker": "DashBoardAnalytics\\Program.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Program.cs",
+              "RelativeToolTip": "DashBoardAnalytics\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:42:15.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "DashBoardAnalytics\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "DashBoardAnalytics\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:21:46.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Services\\SalesService.cs",
+              "RelativeDocumentMoniker": "DashBoardAnalytics\\Services\\SalesService.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Services\\SalesService.cs",
+              "RelativeToolTip": "DashBoardAnalytics\\Services\\SalesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:18:19.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "DashBoardAnalytics\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\Models\\Sale.cs",
+              "RelativeToolTip": "DashBoardAnalytics\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:17:37.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoardAnalytics.csproj",
+              "DocumentMoniker": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\DashBoardAnalytics.csproj",
+              "RelativeDocumentMoniker": "DashBoardAnalytics\\DashBoardAnalytics.csproj",
+              "ToolTip": "C:\\Users\\JuanU\\source\\repos\\DashBoardAnalytics\\DashBoardAnalytics\\DashBoardAnalytics.csproj",
+              "RelativeToolTip": "DashBoardAnalytics\\DashBoardAnalytics.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T14:16:58.831Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 # DashboardAnalytics
-📊 Um Dashboard desenvolvido com C# (ASP.NET) e JavaScript que exibe o resumo de vendas e gastos mensais com gráficos dinâmicos, total geral, ticket médio e filtro por mês. Ideal para análise visual de dados financeiros.
+📊 Um Dashboard desenvolvido com C# (ASP.NET) e JavaScript que exibe o resumo de vendas e gastos mensais com gráficos, ticket médio e filtro por mês. É ótimo para uma análise visual de dados financeiros.
 
 <hr>
 
@@ -27,25 +27,20 @@ Front-end: HTML, CSS, JavaScript
 
 Gráficos: Chart.js
 
-API REST com GET e POST
-
 <hr>
 
 ![Captura de tela 2025-05-27 003437](https://github.com/user-attachments/assets/2bb26806-38d1-412c-a2d3-060fec76038e)
 
 <hr>
 
-📂 Como Rodar o Projeto?
+# 📥 Instalação
+
 Clone o repositório:
 
 git clone [https://github.com/JuanSilva085/DashboarAnalytics.git](https://github.com/JuanSilva085/DashboardAnalytics)
 
-Abra no Visual Studio e restaure os pacotes
-
-Atualize o banco de dados:
+Atualize o banco de dados com o comando:
 dotnet ef database update
 
-Inicie a aplicação (com F5 ou dotnet run)
+Inicie a aplicação (F5 ou dotnet run)
 
-Abra o navegador:
-https://localhost:7216

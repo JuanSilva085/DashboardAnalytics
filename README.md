@@ -9,11 +9,9 @@
 
 📆 Agrupamento por mês
 
-📈 Gráficos interativos com Chart.js
+📈 Gráficos com Chart.js
 
 💰 Cálculo de total geral, vendas do mês e ticket médio
-
-🎨 Layout moderno com visual escuro e cores destacadas
 
 📤 Exportação dos dados em formato **PDF**
 
